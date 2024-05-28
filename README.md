@@ -1,6 +1,13 @@
 # Awesome 4D Generation
 This repo collects papers for 4D generation.
 
+Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models
+[📄 Paper](https://arxiv.org/abs/2405.16645) | [🌐 Project Page](https://vita-group.github.io/Diffusion4D/) | [💻 Code](https://github.com/VITA-Group/Diffusion4D) | [🎥 Video](https://www.youtube.com/watch?v=XJT-cMt_xVo)
+
+Vidu4D: Single Generated Video to High-Fidelity 4D
+Reconstruction with Dynamic Gaussian Surfels
+[📄 Paper](https://arxiv.org/abs/2405.16822) | [🌐 Project Page](https://vidu4d-dgs.github.io/)
+
 SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer, Wu et al., Arxiv 2024
 
 [📄 Paper](https://arxiv.org/abs/2404.03736) | [🌐 Project Page](https://sc4d.github.io/) | [💻 Code](https://github.com/JarrentWu1031/SC4D) | [🎥 Video](https://www.youtube.com/watch?v=SkpTEuX4B5c)

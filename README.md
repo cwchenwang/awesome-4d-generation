@@ -1,6 +1,10 @@
 # Awesome 4D Generation
 This repo collects papers for 4D generation.
 
+MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models
+
+[📄 Paper](https://arxiv.org/pdf/2405.20155) | [💻 Code](https://github.com/lukasuz/MotionDreamer)
+
 PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting
 
 [📄 Paper](https://arxiv.org/pdf/2405.19957) | [🌐 Project Page](https://github.com/MiaoQiaowei/PLA4D.github.io)

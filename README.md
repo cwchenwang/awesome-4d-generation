@@ -1,18 +1,29 @@
 # Awesome 4D Generation
 This repo collects papers for 4D generation.
 
+4Diffusion: Multi-view Video Diffusion Model for 4D Generation
+
+[📄 Paper](https://arxiv.org/pdf/2405.20674) | [🌐 Project Page](https://aejion.github.io/4diffusion) | [💻 Code](https://github.com/aejion/4Diffusion) 
+
 PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting
 
 [📄 Paper](https://arxiv.org/pdf/2405.19957) | [🌐 Project Page](https://github.com/MiaoQiaowei/PLA4D.github.io)
+
+Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation
+
+[📄 Paper](https://arxiv.org/abs/2405.16849) | [🌐 Project Page](https://sync4dphys.github.io/)
 
 Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models
 
 [📄 Paper](https://arxiv.org/abs/2405.16645) | [🌐 Project Page](https://vita-group.github.io/Diffusion4D/) | [💻 Code](https://github.com/VITA-Group/Diffusion4D) | [🎥 Video](https://www.youtube.com/watch?v=XJT-cMt_xVo)
 
-Vidu4D: Single Generated Video to High-Fidelity 4D
-Reconstruction with Dynamic Gaussian Surfels
+Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels
 
 [📄 Paper](https://arxiv.org/abs/2405.16822) | [🌐 Project Page](https://vidu4d-dgs.github.io/)
+
+MagicPose4D: Crafting Articulated Models with Appearance and Motion Control
+
+[📄 Paper](https://arxiv.org/pdf/2405.14017) | [🌐 Project Page](https://boese0601.github.io/magicpose4d/) | [💻 Code](https://github.com/haoz19/MagicPose4D) 
 
 SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer, Wu et al., Arxiv 2024
 

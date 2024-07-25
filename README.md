@@ -83,7 +83,7 @@ GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation, Gao et al
 
 DreamGaussian4D: Generative 4D Gaussian Splatting, Ren et al., CVPR 2024
 
-[📄 Paper](https://arxiv.org/pdf/2312.13763) | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/index.html)
+[📄 Paper](https://arxiv.org/pdf/2312.13763) | [🌐 Project Page](https://jiawei-ren.github.io/projects/dreamgaussian4d/)
 
 Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models, Ling et al., Arxiv 2023
 

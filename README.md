@@ -1,6 +1,22 @@
 # Awesome 4D Generation
 This repo collects papers for 4D generation.
 
+SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency, Xie et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/pdf/2407.17470) | [🌐 Project Page](https://sv4d.github.io/) | [💻 Code](https://github.com/Stability-AI/generative-models)
+
+4Dynamic: Text-to-4D Generation with Hybrid Priors, Yuan et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2407.12684)
+
+4K4DGen: Panoramic 4D Generation at 4K Resolution, Li et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2406.13527) | [🌐 Project Page](https://4k4dgen.github.io/)
+
+L4GM: Large 4D Gaussian Reconstruction Model, Ren et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2406.10324) | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/l4gm/)
+
 4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models, Yu et al., Arxiv 2024
 
 [📄 Paper](https://arxiv.org/abs/2406.07472) | [🌐 Project Page](https://snap-research.github.io/4Real/)

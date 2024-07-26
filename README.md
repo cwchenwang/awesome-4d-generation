@@ -1,37 +1,51 @@
 # Awesome 4D Generation
 This repo collects papers for 4D generation.
 
+## Table of Contents
+- [Camera Control for Video Diffusion](#camera-control-for-video-diffusion)
+- [Multi-view for Video Diffusion](#multi-view-for-video-diffusion)
+- [Distillation from Video Diffusion](#distillation-from-video-diffusion)
+- [Generation by Reconstruction](#generation-by-reconstruction)
+- [4D Editing](#4d-editing)
+- [Physics](#physics)
+
+## Camera Control for Video Diffusion
+
+VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control
+
+[📄 Paper](https://arxiv.org/abs/2407.12781) | [🌐 Project Page](https://snap-research.github.io/vd3d/)
+
+CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation
+
+[📄 Paper](https://arxiv.org/abs/2406.02509) | [🌐 Project Page](https://ir1d.github.io/CamCo/)
+
+## Multi-view for Video Diffusion
+
 SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency, Xie et al., Arxiv 2024
 
 [📄 Paper](https://arxiv.org/pdf/2407.17470) | [🌐 Project Page](https://sv4d.github.io/) | [💻 Code](https://github.com/Stability-AI/generative-models)
-
-4Dynamic: Text-to-4D Generation with Hybrid Priors, Yuan et al., Arxiv 2024
-
-[📄 Paper](https://arxiv.org/abs/2407.12684)
-
-4K4DGen: Panoramic 4D Generation at 4K Resolution, Li et al., Arxiv 2024
-
-[📄 Paper](https://arxiv.org/abs/2406.13527) | [🌐 Project Page](https://4k4dgen.github.io/)
 
 L4GM: Large 4D Gaussian Reconstruction Model, Ren et al., Arxiv 2024
 
 [📄 Paper](https://arxiv.org/abs/2406.10324) | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/l4gm/)
 
-4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models, Yu et al., Arxiv 2024
+4Diffusion: Multi-view Video Diffusion Model for 4D Generation, Zhang et al., Arxiv 2024
 
-[📄 Paper](https://arxiv.org/abs/2406.07472) | [🌐 Project Page](https://snap-research.github.io/4Real/)
+[📄 Paper](https://arxiv.org/pdf/2405.20674) | [🌐 Project Page](https://aejion.github.io/4diffusion) | [💻 Code](https://github.com/aejion/4Diffusion) 
+
+Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models, Liang et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2405.16645) | [🌐 Project Page](https://vita-group.github.io/Diffusion4D/) | [💻 Code](https://github.com/VITA-Group/Diffusion4D) | [🎥 Video](https://www.youtube.com/watch?v=XJT-cMt_xVo)
+
+## Distillation from Video Diffusion
+
+4Dynamic: Text-to-4D Generation with Hybrid Priors, Yuan et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2407.12684)
 
 STAR: Skeleton-aware Text-based 4D Avatar Generation with In-Network Motion Retargeting, Chai et al., Arxiv 2024
 
 [📄 Paper](https://arxiv.org/abs/2406.04629) | [🌐 Project Page](https://star-avatar.github.io/) | [💻 Code](https://github.com/czh-98/STAR)
-
-Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion, Mou et al., CVPR 2024
-
-[📄 Paper](https://arxiv.org/abs/2406.09402) | [🌐 Project Page](https://immortalco.github.io/Instruct-4D-to-4D/)
-
-4Diffusion: Multi-view Video Diffusion Model for 4D Generation, Zhang et al., Arxiv 2024
-
-[📄 Paper](https://arxiv.org/pdf/2405.20674) | [🌐 Project Page](https://aejion.github.io/4diffusion) | [💻 Code](https://github.com/aejion/4Diffusion) 
 
 MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models, Uzolas et al., Arxiv 2024
 
@@ -40,18 +54,6 @@ MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models, Uzolas e
 PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting, Miao et al., Arxiv 2024
 
 [📄 Paper](https://arxiv.org/pdf/2405.19957) | [🌐 Project Page](https://github.com/MiaoQiaowei/PLA4D.github.io)
-
-Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation, Fu et al., Arxiv 2024
-
-[📄 Paper](https://arxiv.org/abs/2405.16849) | [🌐 Project Page](https://sync4dphys.github.io/)
-
-Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models, Liang et al., Arxiv 2024
-
-[📄 Paper](https://arxiv.org/abs/2405.16645) | [🌐 Project Page](https://vita-group.github.io/Diffusion4D/) | [💻 Code](https://github.com/VITA-Group/Diffusion4D) | [🎥 Video](https://www.youtube.com/watch?v=XJT-cMt_xVo)
-
-Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels, Wang et al., Arxiv 2024
-
-[📄 Paper](https://arxiv.org/abs/2405.16822) | [🌐 Project Page](https://vidu4d-dgs.github.io/)
 
 MagicPose4D: Crafting Articulated Models with Appearance and Motion Control, Zhang et al., Arxiv 2024
 
@@ -93,7 +95,6 @@ AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction 
 
 [📄 Paper](https://arxiv.org/pdf/2312.03795) | [🌐 Project Page](https://animatabledreamer.github.io/) | [💻 Code](https://github.com/AnimatableDreamer/AnimatableDreamer)
 
-
 4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling, Bahmani et al., CVPR 2024
 
 [📄 Paper](https://arxiv.org/pdf/2311.17984) | [🌐 Project Page](https://research.nvidia.com/labs/nxp/dream-in-4d/) | [💻 Code](https://github.com/sherwinbahmani/4dfy)
@@ -101,7 +102,6 @@ AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction 
 A Unified Approach for Text- and Image-guided 4D Scene Generation, Zheng et al., CVPR 2024
 
 [📄 Paper](https://arxiv.org/pdf/2311.17984) | [🌐 Project Page](https://sherwinbahmani.github.io/4dfy) | [💻 Code](https://github.com/NVlabs/dream-in-4d)
-
 
 Animate124: Animating One Image to 4D Dynamic Scene, Zhao et al., Arxiv 2023
 
@@ -115,4 +115,24 @@ Text-To-4D Dynamic Scene Generation, Singer et al., Arxiv 2023
 
 [📄 Paper](https://arxiv.org/pdf/2301.11280) | [🌐 Project Page](https://make-a-video3d.github.io)
 
+## Generation by Reconstruction
 
+4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models, Yu et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2406.07472) | [🌐 Project Page](https://snap-research.github.io/4Real/)
+
+Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels, Wang et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2405.16822) | [🌐 Project Page](https://vidu4d-dgs.github.io/)
+
+## 4D Editing
+
+Instruct 4D-to-4D: Editing 4D Scenes as Pseudo-3D Scenes Using 2D Diffusion, Mou et al., CVPR 2024
+
+[📄 Paper](https://arxiv.org/abs/2406.09402) | [🌐 Project Page](https://immortalco.github.io/Instruct-4D-to-4D/)
+
+## Physics
+
+Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation, Fu et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2405.16849) | [🌐 Project Page](https://sync4dphys.github.io/)

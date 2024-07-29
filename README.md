@@ -15,9 +15,17 @@ VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control
 
 [📄 Paper](https://arxiv.org/abs/2407.12781) | [🌐 Project Page](https://snap-research.github.io/vd3d/)
 
+Controlling Space and Time with Diffusion Models
+
+[📄 Paper](https://arxiv.org/pdf/2407.07860) | [🌐 Project Page](https://4d-diffusion.github.io/)
+
 CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation
 
 [📄 Paper](https://arxiv.org/abs/2406.02509) | [🌐 Project Page](https://ir1d.github.io/CamCo/)
+
+Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control
+
+[📄 Paper](https://arxiv.org/pdf/2405.17414) | [🌐 Project Page](https://collaborativevideodiffusion.github.io/)
 
 ## Multi-view for Video Diffusion
 

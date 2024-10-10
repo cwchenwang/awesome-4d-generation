@@ -46,10 +46,21 @@ Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion 
 [📄 Paper](https://arxiv.org/abs/2405.16645) | [🌐 Project Page](https://vita-group.github.io/Diffusion4D/) | [💻 Code](https://github.com/VITA-Group/Diffusion4D) | [🎥 Video](https://www.youtube.com/watch?v=XJT-cMt_xVo)
 
 ## Distillation from Video Diffusion
+Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis, Zeng et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/abs/2410.07155) | [💻 Code](https://github.com/YangLing0818/Trans4D)
+
+CT4D: Consistent Text-to-4D Generation with Animatable Meshes, Ce et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/pdf/2408.08342)
 
 4Dynamic: Text-to-4D Generation with Hybrid Priors, Yuan et al., Arxiv 2024
 
 [📄 Paper](https://arxiv.org/abs/2407.12684)
+
+Animate3D: Animating Any 3D Model with Multi-view Video Diffusion, Jiang et al., Arxiv 2024
+
+[📄 Paper](https://arxiv.org/pdf/2407.11398) | [🌐 Project Page](https://animate3d.github.io/) 
 
 STAR: Skeleton-aware Text-based 4D Avatar Generation with In-Network Motion Retargeting, Chai et al., Arxiv 2024
 

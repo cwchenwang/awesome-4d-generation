@@ -54,6 +54,10 @@ CT4D: Consistent Text-to-4D Generation with Animatable Meshes, Ce et al., Arxiv 
 
 [📄 Paper](https://arxiv.org/pdf/2408.08342)
 
+Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion, Deng et al., SIGGRAPH 2024
+
+[📄 Paper](https://arxiv.org/pdf/2407.13759) | [🌐 Project Page](https://boyangdeng.com/streetscapes/) | [🎥 Video](https://www.youtube.com/watch?v=13hLTnrVVKk)
+
 4Dynamic: Text-to-4D Generation with Hybrid Priors, Yuan et al., Arxiv 2024
 
 [📄 Paper](https://arxiv.org/abs/2407.12684)
